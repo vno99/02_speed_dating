@@ -1,0 +1,552 @@
+,iid,gender,age,field_cd,race,goal,num_matches,attr1_1,sinc1_1,intel1_1,fun1_1,amb1_1,shar1_1,attr1_2,attr7_2,attr1_3,attr7_3
+0,1,Female,21.0,Law,Asian/Pacific Islander/Asian-American,To meet new people,4,15.0,20.0,20.0,15.0,15.0,15.0,19.44,,15.0,
+10,2,Female,24.0,Law,European/Caucasian-American,Seemed like a fun night out,2,45.0,5.0,25.0,20.0,0.0,5.0,18.92,,30.0,
+20,3,Female,25.0,Math,European/Caucasian-American,Other,0,35.0,10.0,35.0,10.0,10.0,0.0,,,,
+30,4,Female,23.0,Law,European/Caucasian-American,Seemed like a fun night out,2,20.0,20.0,20.0,20.0,10.0,10.0,24.14,,20.0,
+40,5,Female,21.0,Law,European/Caucasian-American,To meet new people,2,20.0,5.0,25.0,25.0,10.0,15.0,15.79,,30.0,
+50,6,Female,23.0,Law,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,10.0,25.0,20.0,25.0,5.0,15.0,10.26,,,
+60,7,Female,22.0,Law,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,15.0,15.0,25.0,20.0,15.0,10.0,,,,
+70,8,Female,25.0,Political Science/International Affairs,European/Caucasian-American,Seemed like a fun night out,8,9.09,18.18,27.27,18.18,18.18,9.09,,,,
+80,9,Female,26.0,Political Science/International Affairs,Other,Seemed like a fun night out,7,20.0,10.0,20.0,30.0,10.0,10.0,13.33,,,
+90,10,Female,26.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,2,15.0,15.0,15.0,40.0,10.0,5.0,35.71,,,
+100,11,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,0,35.0,20.0,20.0,20.0,0.0,5.0,19.51,,35.0,
+110,12,Male,22.0,Law,European/Caucasian-American,Seemed like a fun night out,2,60.0,0.0,0.0,40.0,0.0,0.0,,,,
+120,13,Male,22.0,Law,Asian/Pacific Islander/Asian-American,To meet new people,4,19.0,18.0,19.0,18.0,14.0,12.0,20.0,,,
+130,14,Male,23.0,Law,European/Caucasian-American,To meet new people,8,30.0,5.0,15.0,40.0,5.0,5.0,20.0,,30.0,
+140,15,Male,24.0,Law,Latino/Hispanic American,Seemed like a fun night out,3,30.0,10.0,20.0,10.0,10.0,20.0,21.21,,30.0,
+150,16,Male,25.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,2,50.0,0.0,30.0,10.0,0.0,10.0,19.51,,50.0,
+160,17,Male,30.0,Political Science/International Affairs,European/Caucasian-American,To get a date,1,35.0,15.0,25.0,10.0,5.0,10.0,30.0,,40.0,
+170,18,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,33.33,11.11,11.11,11.11,11.11,22.22,24.39,,35.0,
+180,19,Male,28.0,Business/Econ/Finance,European/Caucasian-American,Looking for a serious relationship,9,50.0,0.0,25.0,10.0,0.0,15.0,,,,
+190,20,Male,24.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,100.0,0.0,0.0,0.0,0.0,0.0,,,,
+200,21,Female,21.0,Engineering,Asian/Pacific Islander/Asian-American,Other,0,12.0,18.0,20.0,16.0,16.0,18.0,20.0,,15.0,
+216,22,Female,27.0,"Education, Academia",Black/African American,Seemed like a fun night out,2,20.0,20.0,20.0,10.0,10.0,20.0,20.0,,15.0,
+232,23,Female,21.0,"Social Science, Psychologist",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,10.0,20.0,40.0,10.0,10.0,10.0,10.0,,25.0,
+248,24,Female,27.0,Social Work,European/Caucasian-American,To meet new people,0,10.0,20.0,20.0,15.0,20.0,15.0,15.0,,,
+264,25,Female,25.0,Social Work,European/Caucasian-American,Seemed like a fun night out,0,20.0,20.0,15.0,15.0,15.0,15.0,35.0,,20.0,
+280,26,Female,23.0,Social Work,European/Caucasian-American,Seemed like a fun night out,0,20.0,20.0,20.0,15.0,15.0,10.0,,,,
+296,27,Female,22.0,"Social Science, Psychologist",Latino/Hispanic American,Seemed like a fun night out,2,17.0,10.0,18.0,20.0,25.0,10.0,20.0,,,
+312,28,Female,26.0,"Social Science, Psychologist",European/Caucasian-American,,1,,,,,,,,,,
+328,29,Female,22.0,Social Work,European/Caucasian-American,Seemed like a fun night out,2,20.0,22.0,18.0,15.0,15.0,10.0,35.0,,40.0,
+344,30,Female,23.0,Law,European/Caucasian-American,Seemed like a fun night out,2,10.0,20.0,20.0,20.0,20.0,10.0,20.0,,,
+360,31,Female,24.0,Law,European/Caucasian-American,Seemed like a fun night out,4,35.0,10.0,20.0,20.0,10.0,5.0,50.0,,35.0,
+376,32,Female,27.0,"Social Science, Psychologist",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,50.0,0.0,50.0,0.0,0.0,0.0,75.0,,50.0,
+392,33,Female,30.0,"Social Science, Psychologist",European/Caucasian-American,Other,0,30.0,20.0,30.0,10.0,0.0,10.0,30.0,,30.0,
+408,34,Female,21.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,30.0,5.0,30.0,15.0,15.0,5.0,30.0,,,
+424,35,Female,25.0,Math,European/Caucasian-American,Seemed like a fun night out,5,20.0,23.0,23.0,22.0,7.0,5.0,25.0,,,
+440,36,Female,26.0,Math,European/Caucasian-American,To meet new people,2,20.0,25.0,20.0,15.0,15.0,5.0,40.0,,,
+456,37,Female,27.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,2,10.0,10.0,30.0,25.0,10.0,15.0,20.0,,20.0,
+472,38,Female,23.0,Law,Black/African American,Seemed like a fun night out,3,50.0,10.0,20.0,10.0,10.0,0.0,50.0,,,
+488,39,Female,24.0,Law,Latino/Hispanic American,To say I did it,1,20.0,20.0,20.0,15.0,15.0,10.0,20.0,,20.0,
+504,40,Male,25.0,,Asian/Pacific Islander/Asian-American,To meet new people,0,25.0,20.0,25.0,20.0,10.0,0.0,20.0,,,
+523,41,Male,30.0,Law,Asian/Pacific Islander/Asian-American,To meet new people,0,30.0,20.0,10.0,30.0,0.0,10.0,50.0,,,
+542,42,Male,23.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,0,20.0,25.0,20.0,15.0,10.0,10.0,30.0,,15.0,
+561,43,Male,24.0,Business/Econ/Finance,European/Caucasian-American,Other,1,25.0,35.0,30.0,10.0,0.0,0.0,40.0,,30.0,
+580,44,Male,24.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,4,25.0,15.0,25.0,25.0,15.0,15.0,60.0,,20.0,
+599,45,Male,28.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,4,25.0,15.0,25.0,15.0,0.0,20.0,25.0,,30.0,
+618,46,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,4,20.0,35.0,20.0,10.0,10.0,5.0,75.0,,70.0,
+637,47,Male,30.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,20.0,20.0,25.0,25.0,5.0,5.0,30.0,,,
+656,48,Male,22.0,Undergrad/undecided,European/Caucasian-American,Seemed like a fun night out,1,30.0,15.0,25.0,25.0,5.0,0.0,40.0,,30.0,
+675,49,Male,25.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,6,20.0,20.0,20.0,20.0,5.0,15.0,30.0,,,
+694,50,Male,27.0,Law,Black/African American,Other,4,35.0,10.0,20.0,15.0,10.0,10.0,75.0,,,
+713,51,Male,23.0,Law,European/Caucasian-American,Seemed like a fun night out,1,25.0,10.0,35.0,15.0,0.0,15.0,40.0,,,
+732,52,Male,21.0,Law,European/Caucasian-American,Seemed like a fun night out,1,15.0,20.0,15.0,30.0,5.0,15.0,30.0,,,
+751,53,Male,28.0,"Medical Science, Pharmaceuticals, and Bio Tech",European/Caucasian-American,To meet new people,1,40.0,15.0,20.0,10.0,5.0,10.0,55.0,,35.0,
+770,54,Male,28.0,Business/Econ/Finance,European/Caucasian-American,To say I did it,0,40.0,20.0,20.0,20.0,0.0,0.0,40.0,,,
+789,55,Male,23.0,Law,Black/African American,Other,3,20.0,25.0,25.0,10.0,10.0,10.0,20.0,,,
+808,56,Female,23.0,Social Work,European/Caucasian-American,Seemed like a fun night out,2,17.0,18.0,18.0,15.0,17.0,15.0,20.0,,15.0,
+818,57,Female,22.0,Social Work,European/Caucasian-American,To get a date,1,10.0,20.0,20.0,20.0,15.0,15.0,10.0,,10.0,
+828,58,Female,,,,,2,,,,,,,15.0,,,
+838,59,Female,,,,,0,,,,,,,,,,
+848,60,Female,29.0,"Social Science, Psychologist",Other,Looking for a serious relationship,1,5.0,20.0,25.0,15.0,15.0,20.0,,,,
+858,61,Female,28.0,History/Religion/Philosophy,European/Caucasian-American,Seemed like a fun night out,2,15.0,15.0,20.0,15.0,15.0,20.0,10.0,,0.0,
+868,62,Female,26.0,Law,Latino/Hispanic American,To meet new people,3,30.0,10.0,20.0,20.0,10.0,10.0,50.0,,,
+878,63,Female,24.0,Law,Asian/Pacific Islander/Asian-American,To get a date,1,5.0,15.0,45.0,25.0,0.0,10.0,20.0,,25.0,
+888,64,Female,27.0,Social Work,Asian/Pacific Islander/Asian-American,To meet new people,1,10.0,25.0,25.0,10.0,10.0,20.0,15.0,,15.0,
+898,65,Female,23.0,Social Work,Other,To meet new people,0,17.0,17.0,17.0,17.0,17.0,15.0,17.0,,15.0,
+908,66,Male,29.0,Business/Econ/Finance,Latino/Hispanic American,To meet new people,1,20.0,25.0,15.0,15.0,53.0,20.0,20.0,,,
+918,67,Male,22.0,Law,Other,Other,2,20.0,15.0,20.0,20.0,5.0,10.0,30.0,,,
+928,68,Male,27.0,English/Creative Writing/ Journalism,Black/African American,To say I did it,0,21.0,17.0,22.0,20.0,8.0,13.0,25.0,,,
+938,69,Male,28.0,Business/Econ/Finance,European/Caucasian-American,Other,2,50.0,10.0,30.0,10.0,0.0,0.0,60.0,,50.0,
+948,70,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To say I did it,1,25.0,10.0,20.0,20.0,15.0,10.0,30.0,,,
+958,71,Male,21.0,Law,European/Caucasian-American,To say I did it,3,60.0,15.0,0.0,15.0,0.0,10.0,70.0,,,
+968,72,Male,22.0,Engineering,European/Caucasian-American,To say I did it,0,21.0,20.0,19.0,20.0,10.0,10.0,22.0,,20.0,
+978,73,Male,22.0,Business/Econ/Finance,European/Caucasian-American,Other,0,30.0,10.0,20.0,30.0,0.0,10.0,50.0,,,
+988,74,Male,25.0,Engineering,European/Caucasian-American,To say I did it,2,30.0,0.0,30.0,30.0,10.0,0.0,40.0,,30.0,
+998,75,Male,24.0,Law,Other,Other,2,20.0,20.0,20.0,20.0,10.0,10.0,20.0,,,
+1008,76,Female,34.0,English/Creative Writing/ Journalism,European/Caucasian-American,To meet new people,5,10.0,10.0,30.0,20.0,10.0,20.0,30.0,,20.0,
+1026,77,Female,22.0,Social Work,European/Caucasian-American,Seemed like a fun night out,6,15.0,20.0,20.0,20.0,15.0,10.0,30.0,,15.0,
+1044,78,Female,23.0,Social Work,Latino/Hispanic American,To meet new people,3,10.0,25.0,20.0,10.0,20.0,15.0,25.0,,18.0,
+1062,79,Female,26.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,3,10.0,20.0,15.0,20.0,20.0,15.0,,,,
+1080,80,Female,27.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,10.0,20.0,20.0,10.0,20.0,20.0,30.0,,20.0,
+1098,81,Female,28.0,English/Creative Writing/ Journalism,European/Caucasian-American,To say I did it,3,10.0,10.0,20.0,20.0,20.0,20.0,30.0,,15.0,
+1116,82,Female,25.0,"Education, Academia",Other,Seemed like a fun night out,5,20.0,20.0,20.0,20.0,10.0,10.0,15.0,,20.0,
+1134,83,Female,35.0,Business/Econ/Finance,Latino/Hispanic American,To meet new people,2,10.0,32.0,20.0,12.0,11.0,15.0,10.0,,10.0,
+1152,84,Female,32.0,Biological Sciences/Chemistry/Physics,Latino/Hispanic American,To meet new people,2,30.0,30.0,30.0,5.0,0.0,5.0,,,30.0,
+1170,85,Female,30.0,Social Work,European/Caucasian-American,To meet new people,1,20.0,25.0,15.0,15.0,15.0,10.0,20.0,,20.0,
+1188,86,Female,22.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,8,15.0,20.0,20.0,20.0,5.0,20.0,30.0,,,
+1206,87,Female,23.0,Social Work,European/Caucasian-American,Seemed like a fun night out,2,15.0,15.0,20.0,15.0,15.0,20.0,25.0,,50.0,
+1224,88,Female,23.0,Social Work,European/Caucasian-American,Seemed like a fun night out,0,15.0,15.0,20.0,15.0,20.0,15.0,20.0,,,
+1242,89,Female,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,2,25.0,15.0,20.0,20.0,20.0,0.0,35.0,,60.0,
+1260,90,Female,23.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,1,15.0,21.0,18.0,18.0,10.0,18.0,15.0,,10.0,
+1278,91,Female,25.0,Law,Other,Seemed like a fun night out,8,15.0,3.0,50.0,20.0,2.0,10.0,20.0,,25.0,
+1296,92,Female,29.0,"Education, Academia",European/Caucasian-American,To say I did it,7,10.0,20.0,20.0,20.0,20.0,10.0,20.0,,15.0,
+1314,93,Female,29.0,Engineering,European/Caucasian-American,Seemed like a fun night out,4,14.0,20.0,18.0,24.0,18.0,6.0,17.0,,18.0,
+1332,94,Male,28.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,3,20.0,20.0,20.0,10.0,10.0,20.0,20.0,,,
+1350,95,Male,26.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,18.0,18.0,18.0,19.0,13.0,14.0,18.0,,,
+1368,96,Male,26.0,Engineering,Latino/Hispanic American,Seemed like a fun night out,0,10.0,20.0,20.0,22.0,6.0,22.0,15.0,,,
+1386,97,Male,29.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,5,50.0,7.0,20.0,23.0,0.0,0.0,55.0,,50.0,
+1404,98,Male,39.0,Social Work,European/Caucasian-American,Looking for a serious relationship,2,40.0,20.0,15.0,20.0,0.0,5.0,30.0,,40.0,
+1422,99,Male,28.0,Law,European/Caucasian-American,To get a date,8,30.0,30.0,20.0,10.0,10.0,0.0,45.0,,,
+1440,100,Male,30.0,Business/Econ/Finance,Other,Seemed like a fun night out,2,20.0,25.0,25.0,15.0,5.0,10.0,25.0,,20.0,
+1458,101,Male,22.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To get a date,0,40.0,8.0,10.0,12.0,10.0,20.0,40.0,,,
+1476,102,Male,32.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,1,30.0,10.0,30.0,20.0,10.0,0.0,50.0,,50.0,
+1494,103,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,40.0,5.0,20.0,10.0,10.0,15.0,50.0,,40.0,
+1512,104,Male,27.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,5,20.0,15.0,25.0,15.0,20.0,5.0,40.0,,,
+1530,105,Male,25.0,Law,Black/African American,To meet new people,8,30.0,15.0,20.0,20.0,0.0,5.0,30.0,,40.0,
+1548,106,Male,22.0,Law,Latino/Hispanic American,To say I did it,2,10.0,20.0,35.0,10.0,5.0,20.0,15.0,,20.0,
+1566,107,Male,21.0,History/Religion/Philosophy,European/Caucasian-American,Seemed like a fun night out,11,19.0,24.0,21.0,23.0,5.0,8.0,20.0,,,
+1584,108,Male,24.0,Engineering,European/Caucasian-American,Seemed like a fun night out,4,10.0,20.0,35.0,20.0,0.0,15.0,10.0,,5.0,
+1602,109,Male,25.0,Film,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,8,15.0,10.0,30.0,10.0,5.0,30.0,20.0,,,
+1620,110,Male,28.0,Film,European/Caucasian-American,To meet new people,4,20.0,20.0,15.0,15.0,5.0,25.0,30.0,,20.0,
+1638,111,Male,27.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To say I did it,0,20.0,20.0,20.0,20.0,10.0,10.0,,,,
+1656,112,Female,20.0,"Social Science, Psychologist",Other,Seemed like a fun night out,6,15.0,15.0,20.0,25.0,10.0,15.0,20.0,,,
+1666,113,Female,21.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,3,15.0,15.0,25.0,25.0,15.0,5.0,10.0,,10.0,
+1676,114,Female,20.0,Business/Econ/Finance,Black/African American,To meet new people,1,20.0,20.0,20.0,20.0,10.0,10.0,20.0,,,
+1686,115,Female,21.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,3,20.0,10.0,30.0,20.0,15.0,5.0,20.0,,20.0,
+1696,116,Female,21.0,Political Science/International Affairs,European/Caucasian-American,Seemed like a fun night out,4,15.0,15.0,25.0,25.0,20.0,0.0,30.0,,15.0,
+1706,117,Female,21.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,20.0,10.0,20.0,20.0,20.0,10.0,25.0,,18.0,
+1716,119,Female,19.0,Languages,Latino/Hispanic American,Seemed like a fun night out,5,50.0,15.0,10.0,10.0,10.0,5.0,50.0,,,
+1726,120,Female,20.0,English/Creative Writing/ Journalism,Latino/Hispanic American,To say I did it,4,10.0,10.0,35.0,35.0,8.0,2.0,20.0,,25.0,
+1736,121,Female,21.0,"Social Science, Psychologist",European/Caucasian-American,To say I did it,0,35.0,15.0,5.0,30.0,15.0,0.0,50.0,,,
+1746,122,Male,22.0,Law,Other,Seemed like a fun night out,3,40.0,15.0,10.0,20.0,5.0,10.0,50.0,,50.0,
+1756,123,Male,18.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,0,50.0,10.0,20.0,5.0,5.0,10.0,80.0,,,
+1766,124,Male,22.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,0,40.0,10.0,10.0,10.0,10.0,20.0,50.0,,,
+1776,125,Male,21.0,"Medical Science, Pharmaceuticals, and Bio Tech",European/Caucasian-American,Seemed like a fun night out,7,20.0,15.0,20.0,15.0,12.0,18.0,20.0,,,
+1786,126,Male,22.0,History/Religion/Philosophy,European/Caucasian-American,Looking for a serious relationship,2,25.0,40.0,15.0,10.0,5.0,5.0,20.0,,20.0,
+1796,127,Male,22.0,Engineering,European/Caucasian-American,Other,4,25.0,25.0,25.0,15.0,5.0,5.0,40.0,,40.0,
+1806,128,Male,21.0,Engineering,European/Caucasian-American,Seemed like a fun night out,6,40.0,15.0,10.0,20.0,10.0,5.0,30.0,,50.0,
+1816,129,Male,,Business/Econ/Finance,European/Caucasian-American,To get a date,3,40.0,20.0,20.0,20.0,,,30.0,,,
+1826,130,Male,20.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,80.0,10.0,10.0,,,,60.0,,,
+1836,131,Male,19.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,0,25.0,10.0,20.0,20.0,10.0,15.0,,,40.0,
+1846,132,Female,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,16.67,16.67,16.67,16.67,16.67,16.67,15.79,,,
+1851,133,Female,24.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,12.77,19.15,17.02,17.02,14.89,19.15,15.22,,11.36,
+1856,134,Female,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,1,6.67,20.0,20.0,17.78,20.0,15.56,10.0,,9.52,
+1861,135,Female,26.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,2,18.18,22.73,18.18,13.64,13.64,13.64,17.78,,17.02,
+1866,136,Female,,,,,1,,,,,,,,,12.96,
+1871,137,Male,26.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,17.39,17.39,15.22,17.39,13.04,19.57,,,,
+1876,138,Male,32.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,20.0,20.0,20.0,20.0,6.67,13.33,19.57,,,
+1881,139,Male,37.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,18.75,16.67,18.75,20.83,12.5,12.5,21.43,,18.6,
+1886,140,Male,29.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,2,18.6,16.28,18.6,18.6,11.63,16.28,20.51,,,
+1891,141,Male,28.0,Business/Econ/Finance,Latino/Hispanic American,Seemed like a fun night out,1,20.83,20.83,16.67,16.67,6.25,18.75,19.15,,,
+1896,142,Female,24.0,Political Science/International Affairs,European/Caucasian-American,Seemed like a fun night out,7,14.29,14.29,21.43,21.43,19.05,9.52,14.29,,15.91,
+1912,143,Female,33.0,Law,European/Caucasian-American,To meet new people,0,8.33,20.83,20.83,14.58,16.67,18.75,13.73,,,
+1928,144,Female,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,1,16.0,16.0,16.0,18.0,18.0,16.0,16.67,,17.78,
+1944,145,Female,24.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,0,11.36,18.18,22.73,18.18,11.36,18.18,15.69,,15.09,
+1960,146,Female,36.0,English/Creative Writing/ Journalism,European/Caucasian-American,Looking for a serious relationship,1,18.18,18.18,18.18,18.18,13.64,13.64,,,,
+1976,147,Female,26.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To say I did it,5,18.0,18.0,20.0,18.0,16.0,10.0,18.75,,15.69,
+1992,148,Female,27.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To say I did it,1,15.09,16.98,16.98,18.87,18.87,13.21,,,,
+2008,149,Female,28.0,Political Science/International Affairs,European/Caucasian-American,Seemed like a fun night out,5,8.51,19.15,19.15,19.15,19.15,14.89,16.22,,15.22,
+2024,150,Female,31.0,History/Religion/Philosophy,European/Caucasian-American,Looking for a serious relationship,2,12.0,20.0,20.0,20.0,14.0,14.0,14.0,,10.87,
+2040,151,Female,28.0,Political Science/International Affairs,European/Caucasian-American,To get a date,2,14.55,16.36,18.18,18.18,16.36,16.36,15.38,,15.38,
+2056,152,Female,27.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,14.0,20.0,20.0,14.0,18.0,14.0,16.67,,15.22,
+2072,153,Female,28.0,History/Religion/Philosophy,Asian/Pacific Islander/Asian-American,To meet new people,3,9.76,19.51,19.51,14.63,19.51,17.07,13.95,,11.9,
+2088,154,Female,27.0,Business/Econ/Finance,European/Caucasian-American,Other,7,15.38,17.31,17.31,17.31,17.31,15.38,,,15.38,
+2104,155,Female,27.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,15.09,18.87,18.87,16.98,16.98,13.21,16.67,,,
+2120,156,Female,30.0,Business/Econ/Finance,Black/African American,To meet new people,4,14.0,18.0,16.0,18.0,18.0,16.0,14.29,,,
+2136,157,Female,28.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,14.29,16.33,16.33,18.37,18.37,16.33,14.58,,,
+2152,158,Male,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Looking for a serious relationship,0,19.05,19.05,19.05,19.05,9.52,14.29,17.78,,16.28,
+2168,159,Male,28.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,2,15.91,20.45,20.45,20.45,11.36,11.36,16.67,,14.29,
+2184,160,Male,29.0,Business/Econ/Finance,Black/African American,To meet new people,3,16.0,18.0,18.0,18.0,14.0,16.0,17.31,,,
+2200,161,Male,22.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,2,16.67,18.75,18.75,18.75,18.75,8.33,16.0,,,
+2216,162,Male,27.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,2,15.22,15.22,19.57,17.39,13.04,19.57,15.22,,,
+2232,163,Male,26.0,"Education, Academia",European/Caucasian-American,Looking for a serious relationship,3,12.0,20.0,20.0,20.0,16.0,12.0,14.89,,13.33,
+2248,164,Male,27.0,History/Religion/Philosophy,European/Caucasian-American,Seemed like a fun night out,2,20.51,23.08,20.51,17.95,2.56,15.38,19.51,,,
+2264,165,Male,30.0,Political Science/International Affairs,European/Caucasian-American,To get a date,3,16.67,12.5,20.83,18.75,12.5,18.75,19.51,,17.78,
+2280,166,Male,26.0,Business/Econ/Finance,Other,To say I did it,3,27.78,19.44,19.44,27.78,2.78,2.78,25.0,,16.67,
+2296,167,Male,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,3,18.6,13.95,18.6,16.28,16.28,16.28,19.05,,,
+2312,168,Male,23.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,11.11,17.78,17.78,17.78,17.78,17.78,,,,
+2328,169,Male,28.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,5,17.78,20.0,17.78,15.56,15.56,13.33,18.75,,16.33,
+2344,170,Male,28.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,16.28,20.93,18.6,18.6,13.95,11.63,19.51,,16.28,
+2360,171,Male,29.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,4,19.57,10.87,19.57,19.57,19.57,10.87,20.41,,18.75,
+2376,172,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,5,17.78,17.78,22.22,20.0,15.56,6.67,21.43,,,
+2392,173,Male,22.0,Math,European/Caucasian-American,Seemed like a fun night out,5,18.37,18.37,20.41,20.41,16.33,6.12,17.78,,,
+2408,174,Female,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Looking for a serious relationship,2,9.52,23.81,16.67,16.67,16.67,16.67,11.9,,13.64,
+2418,175,Female,23.0,Political Science/International Affairs,Other,To meet new people,3,12.24,20.41,16.33,14.29,20.41,16.33,14.29,,14.29,
+2428,176,Female,28.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,3,13.04,21.74,19.57,17.39,15.22,13.04,15.91,,,
+2438,177,Female,22.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,0,15.09,16.98,16.98,16.98,18.87,15.09,16.98,,,
+2448,178,Female,35.0,"Social Science, Psychologist",Asian/Pacific Islander/Asian-American,To meet new people,1,15.22,17.39,17.39,17.39,15.22,17.39,17.02,,,
+2458,179,Female,30.0,English/Creative Writing/ Journalism,Latino/Hispanic American,Seemed like a fun night out,1,19.15,21.28,17.02,17.02,12.77,12.77,18.75,,,
+2468,180,Female,24.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Other,2,15.38,17.31,17.31,19.23,13.46,17.31,17.02,,14.55,
+2478,181,Female,22.0,"Medical Science, Pharmaceuticals, and Bio Tech",Black/African American,Seemed like a fun night out,5,15.38,19.23,19.23,17.31,17.31,11.54,15.69,,15.38,
+2488,182,Female,22.0,"Medical Science, Pharmaceuticals, and Bio Tech",Black/African American,Seemed like a fun night out,0,16.07,17.86,17.86,17.86,17.86,12.5,14.29,,16.67,
+2498,183,Female,24.0,Social Work,European/Caucasian-American,Seemed like a fun night out,1,20.0,22.5,17.5,22.5,10.0,7.5,14.89,,16.67,
+2508,184,Male,34.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,4,16.67,16.67,16.67,16.67,16.67,16.67,20.0,,17.02,
+2518,185,Male,25.0,Math,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,16.98,15.09,16.98,16.98,18.87,15.09,14.0,,16.67,
+2528,186,Male,24.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,19.44,19.44,22.22,16.67,11.11,11.11,16.67,,18.92,
+2538,187,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,16.98,16.98,18.87,16.98,13.21,16.98,16.98,,16.67,
+2548,188,Male,21.0,Engineering,European/Caucasian-American,To meet new people,1,15.56,11.11,22.22,15.56,20.0,15.56,14.58,,15.22,
+2558,189,Male,27.0,Law,Other,Seemed like a fun night out,0,16.98,16.98,16.98,16.98,16.98,15.09,16.36,,15.79,
+2568,190,Male,25.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,3,15.56,20.0,20.0,20.0,13.33,11.11,18.6,,,
+2578,191,Male,28.0,Business/Econ/Finance,European/Caucasian-American,To say I did it,2,20.45,20.45,20.45,18.18,18.18,2.27,21.43,,20.93,
+2588,192,Male,24.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,19.57,19.57,15.22,17.39,15.22,13.04,,,23.26,
+2598,193,Male,25.0,Law,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,20.93,16.28,23.26,16.28,11.63,11.63,20.93,,18.6,
+2608,194,Female,24.0,"Social Science, Psychologist",European/Caucasian-American,To get a date,1,16.0,16.0,20.0,16.0,18.0,14.0,18.18,,16.98,
+2628,195,Female,27.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,5,15.38,19.23,19.23,19.23,13.46,13.46,16.0,,15.69,
+2648,196,Female,25.0,History/Religion/Philosophy,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,17.65,17.65,17.65,15.69,15.69,15.69,17.39,,,
+2668,197,Female,24.0,Political Science/International Affairs,Other,Seemed like a fun night out,3,14.0,18.0,20.0,18.0,16.0,14.0,18.37,,,
+2688,198,Female,23.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,To meet new people,0,15.38,19.23,17.31,19.23,9.62,19.23,,,15.0,
+2708,199,Female,30.0,History/Religion/Philosophy,European/Caucasian-American,Looking for a serious relationship,5,17.5,17.5,20.0,12.5,20.0,12.5,25.0,,22.5,
+2728,200,Female,25.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,3,13.21,18.87,18.87,16.98,16.98,15.09,15.38,,,
+2748,201,Female,25.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,15.38,17.31,17.31,17.31,17.31,15.38,16.67,,16.33,
+2768,202,Female,22.0,Math,European/Caucasian-American,To meet new people,2,15.38,19.23,19.23,19.23,15.38,11.54,15.69,,13.73,
+2788,203,Female,22.0,Math,European/Caucasian-American,Other,0,16.0,20.0,18.0,20.0,18.0,8.0,16.0,,18.37,
+2808,204,Female,26.0,Business/Econ/Finance,European/Caucasian-American,To get a date,0,19.61,15.69,17.65,15.69,17.65,13.73,17.86,,18.52,
+2828,205,Female,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,2,15.38,17.31,19.23,19.23,11.54,17.31,18.75,,16.67,
+2848,206,Female,31.0,Business/Econ/Finance,Black/African American,Seemed like a fun night out,8,14.58,16.67,20.83,18.75,16.67,12.5,,,15.91,
+2868,207,Female,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,3,17.31,13.46,17.31,19.23,19.23,13.46,16.67,,16.67,
+2888,208,Female,25.0,Biological Sciences/Chemistry/Physics,Black/African American,To meet new people,11,11.54,13.46,19.23,19.23,19.23,17.31,12.5,,,
+2908,209,Female,28.0,Political Science/International Affairs,Black/African American,To get a date,0,13.04,21.74,17.39,17.39,15.22,15.22,,,,
+2928,210,Female,29.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,3,20.0,15.56,20.0,15.56,11.11,17.78,20.0,,22.5,
+2948,211,Female,28.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,2,16.36,16.36,18.18,18.18,16.36,14.55,14.81,,,
+2968,212,Female,27.0,Business/Econ/Finance,Latino/Hispanic American,Seemed like a fun night out,9,14.29,18.37,18.37,16.33,18.37,14.29,14.89,,15.22,
+2988,213,Female,25.0,Political Science/International Affairs,Latino/Hispanic American,To meet new people,2,15.52,17.24,17.24,17.24,17.24,15.52,16.36,,,
+3008,214,Male,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,2,17.02,21.28,17.02,21.28,14.89,8.51,17.02,,16.67,
+3028,215,Male,26.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,5,14.89,19.15,21.28,19.15,14.89,10.64,17.39,,14.58,
+3048,216,Male,27.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,0,7.5,17.5,20.0,22.5,12.5,20.0,14.81,,,
+3068,217,Male,26.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To say I did it,8,21.28,17.02,21.28,12.77,6.38,21.28,26.32,,,
+3088,218,Male,24.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,1,20.51,5.13,23.08,12.82,17.95,20.51,20.0,,,
+3108,219,Male,26.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,6,16.28,16.28,18.6,16.28,16.28,16.28,19.51,,,
+3128,220,Male,25.0,Political Science/International Affairs,Other,Seemed like a fun night out,3,16.67,16.67,16.67,16.67,14.81,18.52,17.86,,16.67,
+3148,221,Male,27.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,5,15.56,17.78,17.78,17.78,17.78,13.33,15.56,,15.22,
+3168,222,Male,27.0,Math,European/Caucasian-American,To meet new people,0,9.52,19.05,23.81,19.05,4.76,23.81,15.0,,,
+3188,223,Male,28.0,History/Religion/Philosophy,European/Caucasian-American,To meet new people,1,17.39,17.39,19.57,19.57,10.87,15.22,19.05,,19.51,
+3208,224,Male,32.0,"Social Science, Psychologist",European/Caucasian-American,Other,4,17.24,17.24,17.24,17.24,13.79,17.24,,,17.65,
+3228,225,Male,28.0,Business/Econ/Finance,Latino/Hispanic American,Seemed like a fun night out,2,14.71,14.71,14.71,14.71,20.59,20.59,16.33,,,
+3248,226,Male,23.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,4,25.64,17.95,15.38,20.51,10.26,10.26,25.0,,25.0,
+3268,227,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,3,20.0,16.0,18.0,16.0,16.0,14.0,19.61,,20.0,
+3288,228,Male,24.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To get a date,1,13.51,18.92,21.62,13.51,13.51,18.92,15.63,,,
+3308,229,Male,28.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,4,21.43,16.67,21.43,16.67,11.9,11.9,22.73,,17.39,
+3328,230,Male,42.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,4,23.81,23.81,23.81,23.81,2.38,2.38,23.08,,18.92,
+3348,231,Male,30.0,Political Science/International Affairs,Latino/Hispanic American,Seemed like a fun night out,3,18.6,20.93,23.26,23.26,2.33,11.63,18.42,,,
+3368,232,Male,31.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,1,17.78,17.78,17.78,17.78,13.33,15.56,16.0,,16.33,
+3388,233,Male,29.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,5,14.0,20.0,18.0,16.0,14.0,18.0,13.33,,,
+3408,234,Female,22.0,"Social Science, Psychologist",Other,To get a date,0,20.0,20.0,20.0,10.0,10.0,20.0,20.0,,15.0,25.0
+3417,235,Female,23.0,"Education, Academia",European/Caucasian-American,Seemed like a fun night out,2,15.0,15.0,20.0,20.0,20.0,10.0,15.0,,15.0,15.0
+3426,236,Female,24.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,0,15.0,20.0,15.0,20.0,15.0,15.0,20.0,,,
+3435,237,Female,34.0,History/Religion/Philosophy,European/Caucasian-American,To get a date,1,10.0,20.0,20.0,20.0,20.0,10.0,10.0,,10.0,20.0
+3444,238,Female,27.0,Fine Arts/Arts Administration,European/Caucasian-American,Seemed like a fun night out,2,15.0,20.0,20.0,15.0,15.0,15.0,20.0,,20.0,20.0
+3453,239,Female,34.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,1,10.0,25.0,20.0,20.0,5.0,20.0,10.0,,15.0,10.0
+3462,240,Female,26.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,10.0,30.0,30.0,10.0,10.0,10.0,10.0,,10.0,10.0
+3471,241,Female,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,3,90.0,2.0,2.0,2.0,2.0,2.0,75.0,,75.0,75.0
+3480,242,Female,26.0,"Social Science, Psychologist",Latino/Hispanic American,To get a date,5,20.0,20.0,25.0,20.0,5.0,10.0,25.0,,20.0,20.0
+3489,243,Male,27.0,Languages,European/Caucasian-American,To meet new people,3,20.0,20.0,20.0,25.0,5.0,10.0,20.0,,,
+3498,244,Male,28.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,20.0,20.0,20.0,10.0,10.0,20.0,20.0,,25.0,25.0
+3507,245,Male,32.0,History/Religion/Philosophy,European/Caucasian-American,Looking for a serious relationship,1,18.0,10.0,30.0,10.0,10.0,22.0,18.0,,,
+3516,246,Male,25.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,1,35.0,20.0,10.0,20.0,10.0,5.0,40.0,,33.0,50.0
+3525,247,Male,25.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,20.0,30.0,10.0,15.0,0.0,25.0,25.0,,25.0,25.0
+3534,248,Male,27.0,Business/Econ/Finance,Other,Seemed like a fun night out,3,25.0,15.0,20.0,20.0,15.0,5.0,20.0,,25.0,25.0
+3543,249,Male,33.0,Business/Econ/Finance,Other,To meet new people,0,22.0,22.0,15.0,15.0,5.0,21.0,19.0,,20.0,20.0
+3552,250,Male,25.0,English/Creative Writing/ Journalism,Other,Looking for a serious relationship,5,20.0,20.0,20.0,20.0,10.0,10.0,20.0,,,
+3561,251,Male,33.0,History/Religion/Philosophy,Other,Other,1,19.0,19.0,19.0,19.0,19.0,5.0,20.0,,20.0,25.0
+3570,252,Female,28.0,Political Science/International Affairs,Latino/Hispanic American,Seemed like a fun night out,2,0.0,25.0,25.0,25.0,25.0,0.0,10.0,,,
+3591,253,Female,33.0,"Social Science, Psychologist",Asian/Pacific Islander/Asian-American,To meet new people,2,25.0,30.0,10.0,10.0,5.0,20.0,20.0,,25.0,30.0
+3612,254,Female,22.0,History/Religion/Philosophy,European/Caucasian-American,To meet new people,0,25.0,7.0,25.0,25.0,8.0,10.0,,,,
+3633,255,Female,26.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,16.67,16.67,16.67,16.67,16.67,16.67,20.0,,,
+3654,256,Female,24.0,"Medical Science, Pharmaceuticals, and Bio Tech",Asian/Pacific Islander/Asian-American,To meet new people,3,15.0,25.0,20.0,20.0,10.0,10.0,20.0,,,
+3675,257,Female,24.0,"Education, Academia",European/Caucasian-American,To meet new people,0,22.0,14.0,30.0,10.0,14.0,10.0,30.0,,,
+3696,258,Female,25.0,"Education, Academia",Other,Seemed like a fun night out,7,7.0,35.0,20.0,20.0,5.0,13.0,13.0,,,
+3717,259,Female,25.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,1,15.0,18.0,19.0,19.0,17.0,12.0,17.0,,17.0,18.0
+3738,260,Female,27.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,6,19.0,20.0,19.0,14.0,13.0,15.0,19.0,,18.0,25.0
+3759,261,Female,26.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,5,15.0,20.0,20.0,20.0,15.0,10.0,30.0,,25.0,20.0
+3780,262,Female,29.0,"Social Science, Psychologist",European/Caucasian-American,Other,0,10.0,40.0,20.0,20.0,0.0,10.0,10.0,,10.0,20.0
+3801,263,Female,26.0,"Social Science, Psychologist",Black/African American,Seemed like a fun night out,6,20.0,20.0,20.0,10.0,20.0,10.0,20.0,,,
+3822,264,Female,26.0,English/Creative Writing/ Journalism,European/Caucasian-American,Seemed like a fun night out,4,15.0,15.0,25.0,20.0,5.0,20.0,15.0,,15.0,25.0
+3843,265,Female,32.0,Law,European/Caucasian-American,Looking for a serious relationship,1,15.0,5.0,45.0,10.0,15.0,10.0,50.0,,,
+3864,266,Female,28.0,Languages,European/Caucasian-American,To meet new people,4,25.0,20.0,20.0,25.0,0.0,10.0,30.0,,,
+3885,267,Female,26.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,20.0,30.0,10.0,15.0,10.0,15.0,40.0,,17.0,20.0
+3906,268,Female,24.0,"Medical Science, Pharmaceuticals, and Bio Tech",Latino/Hispanic American,To say I did it,10,30.0,20.0,20.0,10.0,15.0,5.0,30.0,,25.0,35.0
+3927,269,Female,24.0,History/Religion/Philosophy,European/Caucasian-American,To meet new people,6,20.0,10.0,30.0,15.0,15.0,10.0,20.0,,,
+3948,270,Female,23.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,5,16.0,16.0,19.0,17.0,14.0,18.0,16.0,,16.0,18.0
+3969,271,Female,23.0,Social Work,European/Caucasian-American,To meet new people,2,10.0,15.0,40.0,15.0,10.0,10.0,15.0,,15.0,20.0
+3990,272,Female,25.0,Social Work,European/Caucasian-American,To meet new people,0,25.0,20.0,25.0,25.0,5.0,0.0,30.0,,,
+4011,273,Male,29.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,1,30.0,25.0,18.0,18.0,4.0,5.0,30.0,,30.0,60.0
+4032,274,Male,24.0,"Social Science, Psychologist",Latino/Hispanic American,To get a date,6,30.0,10.0,20.0,20.0,10.0,10.0,30.0,,30.0,30.0
+4053,275,Male,21.0,Engineering,European/Caucasian-American,To meet new people,1,25.0,10.0,25.0,5.0,10.0,25.0,20.0,,,
+4074,276,Male,26.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,5,24.0,16.0,28.0,14.0,8.0,10.0,25.0,,25.0,25.0
+4095,277,Male,25.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,5,60.0,20.0,0.0,20.0,0.0,0.0,60.0,,60.0,60.0
+4116,278,Male,32.0,Engineering,European/Caucasian-American,Seemed like a fun night out,0,25.0,15.0,20.0,25.0,10.0,5.0,25.0,,15.0,15.0
+4137,279,Male,25.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To get a date,5,27.0,15.0,28.0,10.0,10.0,10.0,25.0,,,
+4158,280,Male,25.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To get a date,5,25.0,20.0,30.0,15.0,5.0,5.0,,,20.0,30.0
+4179,281,Male,27.0,"Social Science, Psychologist",European/Caucasian-American,Other,2,20.0,20.0,20.0,15.0,5.0,20.0,15.0,,,
+4200,282,Male,23.0,Engineering,Black/African American,Seemed like a fun night out,7,25.0,15.0,20.0,20.0,10.0,10.0,35.0,,,
+4221,283,Male,27.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,50.0,10.0,10.0,10.0,10.0,10.0,30.0,,,
+4242,284,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,25.0,20.0,25.0,20.0,10.0,0.0,25.0,,30.0,30.0
+4263,285,Male,24.0,Engineering,Other,Looking for a serious relationship,2,20.0,20.0,25.0,25.0,5.0,5.0,30.0,,,
+4284,286,Male,22.0,Math,European/Caucasian-American,Seemed like a fun night out,0,10.0,15.0,25.0,15.0,15.0,20.0,10.0,,,
+4305,287,Male,22.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,35.0,40.0,5.0,5.0,7.0,8.0,25.0,,,
+4326,288,Male,27.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,4,20.0,20.0,15.0,25.0,10.0,10.0,30.0,,30.0,30.0
+4347,289,Male,28.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,5,20.0,30.0,10.0,20.0,0.0,20.0,20.0,,10.0,20.0
+4368,290,Male,34.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,2,30.0,10.0,30.0,10.0,5.0,15.0,30.0,,,
+4389,291,Male,27.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,5,20.0,20.0,15.0,15.0,12.0,18.0,25.0,,,
+4410,292,Male,28.0,Political Science/International Affairs,Black/African American,Seemed like a fun night out,4,20.0,18.0,20.0,17.0,10.0,15.0,25.0,,,
+4431,293,Male,28.0,Business/Econ/Finance,Latino/Hispanic American,To meet new people,2,23.0,18.0,21.0,18.0,10.0,10.0,24.0,,,
+4452,294,Female,30.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,20.0,20.0,35.0,5.0,10.0,10.0,15.0,,,
+4466,295,Female,30.0,"Education, Academia",European/Caucasian-American,To meet new people,0,10.0,18.0,20.0,16.0,16.0,20.0,14.0,,5.0,5.0
+4480,296,Female,28.0,"Education, Academia",European/Caucasian-American,Seemed like a fun night out,3,15.0,20.0,35.0,15.0,5.0,10.0,20.0,,15.0,15.0
+4494,297,Female,21.0,"Education, Academia",European/Caucasian-American,To meet new people,4,25.0,25.0,15.0,15.0,10.0,10.0,30.0,,20.0,20.0
+4508,298,Female,22.0,English/Creative Writing/ Journalism,European/Caucasian-American,To meet new people,0,10.0,30.0,20.0,10.0,15.0,15.0,15.0,,,
+4522,299,Female,24.0,Social Work,Asian/Pacific Islander/Asian-American,To meet new people,1,10.0,40.0,10.0,20.0,10.0,10.0,15.0,,,
+4536,300,Female,35.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,2,15.0,20.0,25.0,15.0,15.0,10.0,15.0,,,
+4550,301,Female,34.0,"Education, Academia",European/Caucasian-American,To meet new people,2,20.0,20.0,20.0,20.0,10.0,10.0,17.0,,,
+4564,302,Female,21.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,0,50.0,5.0,20.0,10.0,5.0,10.0,50.0,,25.0,50.0
+4578,303,Female,33.0,"Education, Academia",European/Caucasian-American,Looking for a serious relationship,1,20.0,25.0,25.0,10.0,15.0,5.0,40.0,,40.0,60.0
+4592,304,Female,28.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,1,5.0,20.0,25.0,25.0,15.0,10.0,10.0,,10.0,10.0
+4606,305,Female,29.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,10.0,47.0,16.0,12.0,3.0,12.0,9.0,,9.0,9.0
+4620,306,Female,22.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,16.0,20.0,19.0,16.0,18.0,11.0,20.0,,18.0,22.0
+4634,307,Female,27.0,"Education, Academia",Asian/Pacific Islander/Asian-American,To say I did it,3,10.0,20.0,20.0,15.0,20.0,15.0,10.0,,13.0,16.0
+4648,308,Male,27.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,17.0,19.0,18.0,17.0,11.0,18.0,17.0,,,
+4662,309,Male,32.0,"Education, Academia",European/Caucasian-American,To get a date,2,20.0,20.0,20.0,20.0,10.0,10.0,30.0,,20.0,30.0
+4676,310,Male,25.0,Engineering,European/Caucasian-American,Seemed like a fun night out,1,24.0,15.0,20.0,20.0,8.0,13.0,,,,
+4690,311,Male,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,1,50.0,20.0,10.0,10.0,5.0,5.0,50.0,,,
+4704,312,Male,23.0,Fine Arts/Arts Administration,European/Caucasian-American,To meet new people,1,25.0,5.0,30.0,15.0,5.0,20.0,30.0,,,
+4718,313,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,19.0,13.0,18.0,18.0,10.0,22.0,25.0,,20.0,20.0
+4732,314,Male,32.0,Political Science/International Affairs,Other,To meet new people,0,20.0,10.0,30.0,20.0,10.0,10.0,20.0,,20.0,35.0
+4746,315,Male,27.0,Engineering,European/Caucasian-American,To get a date,2,6.67,19.05,42.86,9.52,14.29,7.62,,,,
+4760,316,Male,25.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,6,25.0,20.0,15.0,25.0,10.0,5.0,25.0,,25.0,20.0
+4774,317,Male,30.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,3,50.0,0.0,20.0,20.0,0.0,10.0,40.0,,50.0,50.0
+4788,318,Male,29.0,Business/Econ/Finance,Other,To meet new people,0,40.0,30.0,10.0,8.0,2.0,10.0,,,,
+4802,319,Male,26.0,"Education, Academia",European/Caucasian-American,Other,3,20.0,25.0,20.0,10.0,5.0,20.0,30.0,,25.0,10.0
+4816,320,Male,36.0,History/Religion/Philosophy,European/Caucasian-American,Looking for a serious relationship,0,20.0,16.0,16.0,16.0,16.0,16.0,25.0,,,
+4830,321,Male,29.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,0,30.0,15.0,15.0,20.0,10.0,10.0,,,,
+4844,322,Female,34.0,"Social Science, Psychologist",Asian/Pacific Islander/Asian-American,To meet new people,2,2.0,60.0,15.0,8.0,5.0,10.0,,,5.0,0.0
+4853,323,Female,25.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,3,10.0,20.0,20.0,20.0,10.0,20.0,20.0,,10.0,10.0
+4862,324,Female,23.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,4,40.0,10.0,15.0,20.0,10.0,5.0,85.0,,,
+4871,325,Female,30.0,"Social Science, Psychologist",Latino/Hispanic American,To meet new people,3,10.0,20.0,20.0,10.0,10.0,30.0,10.0,,,
+4880,326,Female,36.0,"Education, Academia",Black/African American,To meet new people,2,15.0,15.0,15.0,20.0,20.0,15.0,20.0,,,
+4889,327,Female,29.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,0,15.0,10.0,20.0,20.0,20.0,15.0,15.0,,,
+4898,328,Female,30.0,"Education, Academia",European/Caucasian-American,To meet new people,1,22.0,12.0,30.0,25.0,10.0,1.0,30.0,,30.0,10.0
+4907,329,Female,29.0,"Education, Academia",European/Caucasian-American,Other,0,15.0,22.0,22.0,16.0,15.0,10.0,10.0,,,
+4916,330,Female,22.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,15.0,25.0,15.0,20.0,10.0,15.0,20.0,,,
+4925,331,Female,34.0,"Education, Academia",European/Caucasian-American,Seemed like a fun night out,0,15.0,15.0,10.0,25.0,10.0,25.0,,,15.0,15.0
+4934,332,Male,30.0,"Social Science, Psychologist",Asian/Pacific Islander/Asian-American,To get a date,2,60.0,10.0,10.0,10.0,5.0,5.0,50.0,,60.0,60.0
+4944,333,Male,23.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,2,50.0,5.0,15.0,20.0,10.0,0.0,35.0,,45.0,40.0
+4954,334,Male,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,40.0,10.0,15.0,10.0,10.0,15.0,40.0,,,
+4964,335,Male,24.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,1,20.0,10.0,20.0,20.0,15.0,15.0,20.0,,,
+4974,336,Male,25.0,Architecture,Latino/Hispanic American,Seemed like a fun night out,1,20.0,15.0,30.0,10.0,15.0,10.0,25.0,,50.0,50.0
+4984,337,Male,28.0,Engineering,European/Caucasian-American,Seemed like a fun night out,3,17.0,17.0,17.0,17.0,16.0,16.0,17.0,,,
+4994,338,Male,27.0,Engineering,Other,Seemed like a fun night out,2,10.0,20.0,25.0,20.0,20.0,5.0,15.0,,,
+5004,339,Male,,,,,4,,,,,,,25.0,,,
+5014,340,Male,,,,,1,,,,,,,40.0,,,
+5024,341,Female,23.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,20.0,20.0,20.0,20.0,20.0,0.0,30.0,,,
+5042,342,Female,33.0,"Education, Academia",Latino/Hispanic American,Seemed like a fun night out,1,40.0,15.0,25.0,5.0,15.0,0.0,60.0,,,
+5060,343,Female,32.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To get a date,2,5.0,25.0,20.0,10.0,15.0,25.0,25.0,,20.0,30.0
+5078,344,Female,26.0,Political Science/International Affairs,Latino/Hispanic American,To get a date,4,15.0,15.0,15.0,20.0,20.0,15.0,15.0,,,
+5096,345,Female,24.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,4,10.0,20.0,27.0,23.0,15.0,5.0,15.0,,10.0,50.0
+5114,346,Female,,,,,6,,,,,,,35.0,,,
+5132,347,Female,26.0,"Education, Academia",Black/African American,To say I did it,0,30.0,5.0,10.0,20.0,30.0,5.0,,,,
+5150,348,Female,21.0,"Education, Academia",Asian/Pacific Islander/Asian-American,To meet new people,1,15.0,25.0,15.0,15.0,15.0,15.0,10.0,,,
+5168,349,Female,33.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,8,25.0,20.0,10.0,20.0,20.0,5.0,27.0,,25.0,30.0
+5186,350,Female,31.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To meet new people,3,12.0,25.0,25.0,8.0,15.0,15.0,,,,
+5204,351,Female,35.0,"Education, Academia",Asian/Pacific Islander/Asian-American,To meet new people,5,15.0,15.0,30.0,15.0,15.0,10.0,15.0,,,
+5222,352,Female,29.0,"Education, Academia",Other,To meet new people,3,20.0,20.0,20.0,10.0,10.0,20.0,20.0,,,
+5240,353,Female,25.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,15.0,10.0,25.0,25.0,10.0,15.0,,,,
+5258,354,Female,22.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,8,20.0,10.0,20.0,20.0,20.0,10.0,15.0,,15.0,10.0
+5276,355,Female,24.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,1,50.0,20.0,10.0,5.0,10.0,5.0,50.0,,,
+5294,356,Female,27.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,1,15.0,25.0,20.0,20.0,0.0,20.0,20.0,,,
+5312,357,Female,27.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,15.0,20.0,20.0,20.0,20.0,5.0,20.0,,10.0,20.0
+5330,358,Female,26.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,20.0,10.0,25.0,25.0,10.0,10.0,,,,
+5348,359,Female,26.0,English/Creative Writing/ Journalism,European/Caucasian-American,To meet new people,3,9.0,17.0,23.0,15.0,14.0,22.0,12.0,,10.0,15.0
+5366,360,Female,24.0,"Social Science, Psychologist",Other,To meet new people,4,20.0,30.0,10.0,10.0,10.0,20.0,20.0,,20.0,20.0
+5384,361,Male,34.0,Law,European/Caucasian-American,To meet new people,1,30.0,20.0,30.0,5.0,5.0,10.0,20.0,,20.0,20.0
+5404,362,Male,30.0,Law,European/Caucasian-American,Seemed like a fun night out,5,20.51,14.53,24.79,17.09,5.98,17.09,20.0,,,
+5424,363,Male,23.0,Engineering,Asian/Pacific Islander/Asian-American,To get a date,2,25.0,20.0,20.0,20.0,5.0,10.0,35.0,,,
+5444,364,Male,27.0,Business/Econ/Finance,Latino/Hispanic American,To get a date,6,25.0,25.0,25.0,15.0,10.0,0.0,25.0,,,
+5464,365,Male,30.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,31.58,10.53,15.79,21.05,10.53,10.53,30.0,,,
+5484,366,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,10,14.0,18.0,17.0,16.0,15.0,20.0,14.0,,,
+5504,367,Male,27.0,Political Science/International Affairs,European/Caucasian-American,To get a date,4,30.0,15.0,20.0,25.0,5.0,5.0,25.0,,,
+5524,368,Male,24.0,Political Science/International Affairs,Other,Seemed like a fun night out,6,20.0,10.0,25.0,20.0,10.0,15.0,30.0,,20.0,30.0
+5544,369,Male,25.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,8,17.0,18.0,28.0,27.0,5.0,5.0,22.0,,30.0,70.0
+5564,370,Male,28.0,Business/Econ/Finance,European/Caucasian-American,To get a date,1,50.0,10.0,10.0,10.0,10.0,10.0,50.0,,,
+5584,371,Male,27.0,Business/Econ/Finance,European/Caucasian-American,To say I did it,4,40.0,0.0,10.0,50.0,0.0,0.0,50.0,,,
+5604,372,Male,27.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,3,30.0,15.0,15.0,20.0,5.0,15.0,40.0,,,
+5624,373,Male,29.0,Business/Econ/Finance,Latino/Hispanic American,To meet new people,4,75.0,5.0,5.0,10.0,0.0,5.0,85.0,,,
+5644,374,Male,30.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,1,50.0,10.0,10.0,10.0,5.0,15.0,60.0,,,
+5664,375,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,3,30.0,20.0,15.0,15.0,8.0,12.0,35.0,,,
+5684,376,Male,25.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,2,30.0,10.0,15.0,20.0,15.0,10.0,,,30.0,50.0
+5704,377,Male,26.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,25.0,20.0,10.0,20.0,15.0,10.0,20.0,,,
+5724,378,Male,29.0,Business/Econ/Finance,European/Caucasian-American,Other,1,25.0,15.0,20.0,20.0,10.0,10.0,40.0,,,
+5744,379,Female,38.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,2,15.0,15.0,20.0,15.0,15.0,20.0,,,20.0,30.0
+5763,380,Female,33.0,Film,Black/African American,To meet new people,2,20.0,20.0,20.0,15.0,15.0,10.0,,,,
+5782,381,Female,24.0,Film,European/Caucasian-American,To say I did it,2,20.0,10.0,20.0,35.0,5.0,10.0,20.0,40.0,,
+5801,382,Female,28.0,Film,European/Caucasian-American,To meet new people,4,25.0,25.0,25.0,10.0,10.0,5.0,20.0,,,
+5820,383,Female,27.0,"Education, Academia",European/Caucasian-American,To get a date,4,25.0,20.0,10.0,20.0,15.0,10.0,25.0,25.0,25.0,20.0
+5839,384,Female,23.0,"Education, Academia",European/Caucasian-American,To meet new people,7,20.0,20.0,20.0,20.0,20.0,0.0,20.0,30.0,30.0,40.0
+5858,385,Female,25.0,"Education, Academia",European/Caucasian-American,To meet new people,7,25.0,20.0,20.0,20.0,10.0,5.0,,,,
+5877,386,Female,26.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,2,15.0,10.0,30.0,10.0,15.0,20.0,15.0,15.0,15.0,15.0
+5896,387,Female,25.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,8,20.0,15.0,25.0,15.0,15.0,10.0,25.0,20.0,,
+5915,388,Female,24.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,1,22.0,17.0,15.0,15.0,15.0,16.0,20.0,25.0,,
+5934,389,Female,21.0,Law,European/Caucasian-American,To meet new people,8,20.0,30.0,20.0,20.0,0.0,10.0,10.0,20.0,10.0,30.0
+5953,390,Female,30.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Other,3,10.0,20.0,20.0,10.0,10.0,30.0,,,,
+5972,391,Female,28.0,English/Creative Writing/ Journalism,European/Caucasian-American,Seemed like a fun night out,1,35.0,0.0,35.0,10.0,10.0,10.0,60.0,60.0,40.0,60.0
+5991,392,Female,26.0,English/Creative Writing/ Journalism,European/Caucasian-American,To say I did it,2,15.0,20.0,15.0,30.0,10.0,10.0,15.0,25.0,,
+6010,393,Female,22.0,English/Creative Writing/ Journalism,European/Caucasian-American,Seemed like a fun night out,5,8.0,20.0,25.0,25.0,12.0,10.0,12.0,15.0,,
+6029,394,Female,24.0,English/Creative Writing/ Journalism,European/Caucasian-American,To meet new people,1,18.0,19.0,16.0,15.0,15.0,17.0,20.0,20.0,20.0,30.0
+6048,395,Female,33.0,English/Creative Writing/ Journalism,European/Caucasian-American,To get a date,2,20.0,20.0,20.0,10.0,10.0,20.0,30.0,50.0,40.0,50.0
+6067,396,Female,25.0,Fine Arts/Arts Administration,Asian/Pacific Islander/Asian-American,To meet new people,2,15.0,18.0,18.0,18.0,15.0,16.0,16.0,18.0,,
+6086,397,Male,24.0,Law,European/Caucasian-American,To meet new people,3,20.0,21.0,21.0,22.0,6.0,10.0,19.0,18.0,20.0,19.0
+6104,398,Male,29.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,6,45.0,10.0,10.0,30.0,0.0,5.0,50.0,50.0,45.0,45.0
+6122,399,Male,29.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,25.0,10.0,20.0,20.0,10.0,15.0,,,,
+6140,400,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To say I did it,6,70.0,5.0,20.0,3.0,1.0,1.0,,,,
+6158,401,Male,31.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,35.0,0.0,25.0,20.0,0.0,20.0,50.0,70.0,60.0,70.0
+6176,402,Male,29.0,Math,Asian/Pacific Islander/Asian-American,To get a date,1,25.0,20.0,15.0,25.0,10.0,5.0,15.0,30.0,20.0,25.0
+6194,403,Male,22.0,Engineering,European/Caucasian-American,To say I did it,1,20.0,25.0,20.0,15.0,5.0,15.0,20.0,20.0,,
+6212,404,Male,23.0,Engineering,European/Caucasian-American,To meet new people,9,25.0,14.0,25.0,25.0,3.0,8.0,27.0,22.0,22.0,27.0
+6230,405,Male,30.0,Political Science/International Affairs,Black/African American,Looking for a serious relationship,0,30.0,25.0,20.0,15.0,5.0,5.0,50.0,,,
+6248,406,Male,27.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,5,20.0,20.0,20.0,20.0,20.0,0.0,20.0,,,
+6266,407,Male,24.0,Film,European/Caucasian-American,To get a date,2,30.0,15.0,15.0,15.0,15.0,10.0,40.0,60.0,50.0,60.0
+6284,408,Male,24.0,Political Science/International Affairs,Latino/Hispanic American,To meet new people,5,20.0,10.0,20.0,20.0,10.0,20.0,20.0,,,
+6302,409,Male,23.0,Engineering,European/Caucasian-American,To meet new people,5,20.0,15.0,20.0,20.0,10.0,15.0,20.0,,,
+6320,410,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,3,20.0,20.0,20.0,20.0,10.0,10.0,,,,
+6338,411,Male,34.0,Business/Econ/Finance,European/Caucasian-American,To get a date,1,35.0,15.0,15.0,25.0,10.0,0.0,50.0,,80.0,70.0
+6356,412,Male,27.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,4,75.0,5.0,5.0,5.0,5.0,5.0,75.0,,,
+6374,413,Male,26.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,10.0,10.0,30.0,30.0,5.0,15.0,30.0,,,
+6392,414,Male,29.0,Business/Econ/Finance,European/Caucasian-American,Other,8,95.0,1.0,1.0,1.0,1.0,1.0,,,,
+6410,415,Male,31.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,1,10.0,20.0,40.0,10.0,10.0,10.0,20.0,20.0,20.0,20.0
+6428,416,Female,25.0,"Social Science, Psychologist",Latino/Hispanic American,Other,6,15.0,20.0,30.0,20.0,5.0,10.0,20.0,20.0,15.0,20.0
+6436,417,Female,29.0,"Social Science, Psychologist",European/Caucasian-American,Seemed like a fun night out,1,20.0,20.0,20.0,10.0,10.0,20.0,20.0,20.0,,
+6444,418,Female,25.0,Law,Asian/Pacific Islander/Asian-American,Other,0,15.0,25.0,20.0,15.0,10.0,15.0,15.0,20.0,20.0,20.0
+6452,419,Female,28.0,Social Work,European/Caucasian-American,Looking for a serious relationship,1,5.0,30.0,20.0,10.0,5.0,30.0,,,,
+6460,420,Female,22.0,Social Work,European/Caucasian-American,To say I did it,2,10.0,10.0,40.0,10.0,15.0,15.0,10.0,15.0,10.0,25.0
+6468,421,Female,25.0,Social Work,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,20.0,10.0,30.0,20.0,10.0,10.0,20.0,,20.0,30.0
+6476,422,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,4,30.0,25.0,20.0,10.0,10.0,5.0,30.0,30.0,,
+6482,423,Male,30.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,2,30.0,20.0,30.0,10.0,5.0,5.0,30.0,,,
+6488,424,Male,24.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,2,17.0,16.0,17.0,17.0,17.0,16.0,,,,
+6494,425,Male,28.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,0,16.0,25.0,20.0,12.0,12.0,15.0,,,,
+6500,426,Male,24.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,25.0,7.0,35.0,20.0,8.0,5.0,,,,
+6506,427,Male,28.0,Political Science/International Affairs,European/Caucasian-American,Seemed like a fun night out,0,20.0,20.0,20.0,20.0,20.0,20.0,,,,
+6512,428,Male,27.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To get a date,2,60.0,10.0,10.0,10.0,10.0,0.0,50.0,50.0,,
+6518,429,Male,27.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,1,55.0,10.0,15.0,15.0,5.0,0.0,50.0,50.0,50.0,60.0
+6524,430,Female,22.0,"Education, Academia",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,10.0,25.0,15.0,20.0,15.0,15.0,10.0,10.0,10.0,10.0
+6538,431,Female,27.0,"Education, Academia",Asian/Pacific Islander/Asian-American,To meet new people,2,15.0,15.0,25.0,15.0,15.0,15.0,15.0,16.0,16.0,20.0
+6552,432,Female,28.0,Social Work,European/Caucasian-American,Looking for a serious relationship,6,15.0,30.0,30.0,10.0,10.0,5.0,30.0,30.0,,
+6566,433,Female,30.0,Fine Arts/Arts Administration,Other,To meet new people,2,20.0,20.0,20.0,20.0,10.0,10.0,20.0,20.0,,
+6580,434,Female,27.0,Social Work,European/Caucasian-American,Seemed like a fun night out,1,30.0,15.0,15.0,30.0,0.0,10.0,40.0,60.0,50.0,70.0
+6594,435,Female,22.0,Law,Black/African American,Seemed like a fun night out,3,25.0,5.0,20.0,25.0,15.0,10.0,30.0,,,
+6608,436,Female,23.0,Law,European/Caucasian-American,Seemed like a fun night out,2,28.0,8.0,17.0,22.0,17.0,8.0,60.0,,,
+6622,437,Female,23.0,Social Work,European/Caucasian-American,Seemed like a fun night out,3,15.0,15.0,18.0,18.0,14.0,20.0,12.0,,,
+6636,438,Female,23.0,Social Work,European/Caucasian-American,Seemed like a fun night out,2,14.0,15.0,16.0,17.0,18.0,20.0,15.0,,15.0,15.0
+6650,439,Female,29.0,"Education, Academia",European/Caucasian-American,To meet new people,3,20.0,10.0,50.0,5.0,10.0,5.0,,,50.0,50.0
+6664,440,Male,21.0,Law,European/Caucasian-American,Seemed like a fun night out,0,35.0,5.0,30.0,20.0,5.0,5.0,80.0,,,
+6674,441,Male,24.0,Law,European/Caucasian-American,To meet new people,2,35.0,10.0,25.0,20.0,5.0,5.0,60.0,40.0,50.0,75.0
+6684,442,Male,25.0,Law,European/Caucasian-American,Looking for a serious relationship,4,40.0,10.0,0.0,45.0,0.0,5.0,50.0,50.0,,
+6694,443,Male,27.0,Political Science/International Affairs,Latino/Hispanic American,To meet new people,0,30.0,25.0,10.0,20.0,0.0,15.0,30.0,,,
+6704,444,Male,26.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,0,50.0,10.0,10.0,30.0,0.0,0.0,40.0,50.0,,
+6714,445,Male,30.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,2,40.0,12.0,18.0,12.0,6.0,12.0,50.0,50.0,50.0,60.0
+6724,446,Male,28.0,Business/Econ/Finance,Latino/Hispanic American,Seemed like a fun night out,4,30.0,20.0,25.0,15.0,10.0,0.0,,,,
+6734,447,Male,26.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,15.0,30.0,25.0,20.0,0.0,10.0,25.0,,,
+6744,448,Male,22.0,Law,European/Caucasian-American,Seemed like a fun night out,5,25.0,15.0,25.0,25.0,5.0,5.0,30.0,30.0,30.0,25.0
+6754,449,Male,23.0,Law,Other,Seemed like a fun night out,2,55.0,2.0,1.0,40.0,1.0,1.0,50.0,50.0,,
+6764,450,Male,25.0,Political Science/International Affairs,European/Caucasian-American,To meet new people,2,50.0,5.0,5.0,5.0,5.0,30.0,50.0,50.0,50.0,50.0
+6774,451,Male,30.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,0,20.0,40.0,5.0,20.0,5.0,10.0,25.0,,,
+6784,452,Male,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,35.0,30.0,25.0,5.0,0.0,5.0,35.0,,,
+6794,453,Male,27.0,Law,Asian/Pacific Islander/Asian-American,To meet new people,1,30.0,30.0,30.0,5.0,0.0,5.0,,,,
+6804,454,Female,27.0,Fine Arts/Arts Administration,European/Caucasian-American,To meet new people,0,10.0,20.0,20.0,20.0,10.0,20.0,15.0,15.0,10.0,10.0
+6810,455,Female,24.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,10.0,25.0,20.0,16.0,20.0,9.0,10.0,10.0,,
+6816,456,Female,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To meet new people,1,25.0,20.0,15.0,10.0,15.0,15.0,30.0,30.0,,
+6822,457,Female,55.0,English/Creative Writing/ Journalism,Asian/Pacific Islander/Asian-American,Other,0,25.0,0.0,25.0,25.0,0.0,25.0,20.0,10.0,,
+6828,458,Female,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,50.0,5.0,25.0,20.0,0.0,0.0,40.0,65.0,70.0,80.0
+6834,459,Female,26.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,30.0,10.0,10.0,30.0,10.0,10.0,,,20.0,50.0
+6840,460,Male,33.0,History/Religion/Philosophy,European/Caucasian-American,Seemed like a fun night out,1,20.0,10.0,20.0,15.0,15.0,20.0,,,15.0,20.0
+6846,461,Male,27.0,Engineering,Other,Seemed like a fun night out,0,40.0,20.0,20.0,10.0,10.0,0.0,40.0,30.0,,
+6852,462,Male,33.0,Engineering,Asian/Pacific Islander/Asian-American,Looking for a serious relationship,1,30.0,30.0,10.0,10.0,0.0,20.0,30.0,30.0,30.0,30.0
+6858,463,Male,23.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,0,15.0,15.0,15.0,15.0,15.0,25.0,15.0,15.0,,
+6864,464,Male,33.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,15.0,15.0,15.0,20.0,15.0,20.0,20.0,30.0,,
+6870,465,Male,23.0,History/Religion/Philosophy,European/Caucasian-American,Other,0,20.0,20.0,20.0,20.0,20.0,0.0,,,,
+6876,466,Female,24.0,Other,European/Caucasian-American,Other,0,10.0,20.0,20.0,15.0,20.0,15.0,25.0,40.0,,
+6891,467,Female,24.0,Business/Econ/Finance,European/Caucasian-American,Other,7,20.0,20.0,20.0,20.0,20.0,0.0,20.0,20.0,20.0,0.0
+6906,468,Female,25.0,Political Science/International Affairs,Other,Seemed like a fun night out,3,15.0,25.0,15.0,15.0,15.0,15.0,15.0,10.0,15.0,15.0
+6921,469,Female,25.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,To meet new people,5,20.0,10.0,20.0,20.0,10.0,20.0,30.0,50.0,40.0,40.0
+6936,470,Female,29.0,"Medical Science, Pharmaceuticals, and Bio Tech",Asian/Pacific Islander/Asian-American,Seemed like a fun night out,5,10.0,20.0,25.0,25.0,10.0,10.0,20.0,35.0,,
+6951,471,Female,30.0,"Medical Science, Pharmaceuticals, and Bio Tech",Asian/Pacific Islander/Asian-American,To meet new people,1,15.0,15.0,25.0,10.0,15.0,20.0,25.0,35.0,,
+6966,472,Female,25.0,Engineering,Latino/Hispanic American,To meet new people,2,10.0,25.0,25.0,20.0,10.0,10.0,20.0,25.0,,
+6981,473,Female,34.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,1,15.0,20.0,20.0,15.0,15.0,15.0,15.0,15.0,,
+6996,474,Female,30.0,Biological Sciences/Chemistry/Physics,Black/African American,Seemed like a fun night out,4,15.0,20.0,10.0,30.0,5.0,20.0,15.0,15.0,,
+7011,475,Female,27.0,Political Science/International Affairs,Latino/Hispanic American,Seemed like a fun night out,2,10.0,15.0,30.0,10.0,15.0,20.0,10.0,10.0,,
+7026,476,Female,25.0,Political Science/International Affairs,European/Caucasian-American,To say I did it,2,20.0,20.0,20.0,15.0,15.0,10.0,,,30.0,50.0
+7041,477,Female,27.0,Engineering,Latino/Hispanic American,Seemed like a fun night out,0,16.0,19.0,16.0,17.0,15.0,17.0,18.0,20.0,,
+7056,478,Female,26.0,Political Science/International Affairs,European/Caucasian-American,Seemed like a fun night out,2,20.0,20.0,10.0,20.0,10.0,20.0,,,,
+7071,479,Female,27.0,Political Science/International Affairs,European/Caucasian-American,Seemed like a fun night out,0,15.0,15.0,20.0,20.0,15.0,15.0,,,,
+7086,480,Female,26.0,Engineering,European/Caucasian-American,Seemed like a fun night out,3,16.0,18.0,18.0,20.0,12.0,16.0,17.0,20.0,,
+7101,481,Male,23.0,"Education, Academia",European/Caucasian-American,To meet new people,1,25.0,20.0,15.0,20.0,5.0,15.0,25.0,30.0,20.0,35.0
+7116,482,Male,30.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,4,20.0,10.0,22.0,20.0,15.0,13.0,20.0,20.0,,
+7131,483,Male,28.0,"Social Science, Psychologist",European/Caucasian-American,Other,0,40.0,20.0,20.0,20.0,0.0,0.0,40.0,40.0,,
+7146,484,Male,31.0,Other,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,16.0,16.0,20.0,16.0,16.0,16.0,10.0,10.0,5.0,10.0
+7161,485,Male,29.0,"Social Science, Psychologist",Black/African American,To meet new people,2,20.0,15.0,20.0,15.0,15.0,15.0,20.0,20.0,,
+7176,486,Male,32.0,Biological Sciences/Chemistry/Physics,Latino/Hispanic American,To get a date,1,20.0,20.0,20.0,15.0,10.0,15.0,15.0,25.0,20.0,30.0
+7191,487,Male,24.0,English/Creative Writing/ Journalism,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,25.0,26.0,15.0,10.0,9.0,15.0,20.0,15.0,,
+7206,488,Male,29.0,Business/Econ/Finance,Asian/Pacific Islander/Asian-American,To get a date,2,15.0,20.0,20.0,20.0,5.0,20.0,10.0,10.0,,
+7221,489,Male,28.0,Business/Econ/Finance,European/Caucasian-American,To get a date,8,20.0,10.0,20.0,20.0,20.0,0.0,30.0,30.0,,
+7236,490,Male,29.0,Film,European/Caucasian-American,To meet new people,1,30.0,15.0,20.0,10.0,10.0,15.0,40.0,50.0,,
+7251,491,Male,29.0,Business/Econ/Finance,Latino/Hispanic American,To meet new people,4,30.0,10.0,25.0,20.0,8.0,7.0,30.0,40.0,50.0,50.0
+7266,492,Male,30.0,Biological Sciences/Chemistry/Physics,Other,To meet new people,7,30.0,0.0,30.0,30.0,10.0,0.0,50.0,50.0,50.0,50.0
+7281,493,Male,20.0,Political Science/International Affairs,Asian/Pacific Islander/Asian-American,To say I did it,1,30.0,10.0,10.0,30.0,10.0,10.0,30.0,30.0,,
+7296,494,Male,30.0,English/Creative Writing/ Journalism,European/Caucasian-American,Looking for a serious relationship,2,25.0,25.0,25.0,25.0,0.0,0.0,20.0,20.0,,
+7311,495,Male,32.0,Fine Arts/Arts Administration,Other,To meet new people,2,20.0,20.0,20.0,15.0,15.0,10.0,20.0,20.0,,
+7326,496,Female,23.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,1,20.0,30.0,20.0,20.0,10.0,0.0,20.0,50.0,,
+7333,497,Female,24.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,0,10.0,20.0,20.0,20.0,20.0,10.0,,,,
+7340,498,Female,25.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,0,18.0,18.0,18.0,18.0,18.0,10.0,,,,
+7347,499,Female,26.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To say I did it,2,19.0,19.0,19.0,19.0,5.0,19.0,19.0,24.0,20.0,30.0
+7354,500,Female,25.0,Biological Sciences/Chemistry/Physics,Black/African American,Seemed like a fun night out,1,10.0,15.0,35.0,15.0,10.0,15.0,40.0,30.0,,
+7361,501,Female,26.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To say I did it,1,30.0,10.0,20.0,10.0,10.0,20.0,30.0,30.0,40.0,40.0
+7368,502,Male,26.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,40.0,20.0,20.0,20.0,0.0,0.0,30.0,40.0,,
+7374,503,Male,25.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,To say I did it,0,30.0,30.0,40.0,0.0,0.0,0.0,25.0,25.0,30.0,30.0
+7380,504,Male,23.0,Engineering,European/Caucasian-American,To meet new people,2,30.0,0.0,30.0,15.0,15.0,10.0,40.0,30.0,,
+7386,505,Male,27.0,English/Creative Writing/ Journalism,Asian/Pacific Islander/Asian-American,To get a date,1,20.0,14.0,18.0,16.0,16.0,16.0,,,,
+7392,506,Male,24.0,Math,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,15.0,15.0,20.0,15.0,15.0,20.0,20.0,20.0,,
+7398,507,Male,24.0,Math,Asian/Pacific Islander/Asian-American,To say I did it,1,20.0,20.0,20.0,20.0,20.0,0.0,20.0,10.0,30.0,40.0
+7404,508,Male,36.0,Math,Asian/Pacific Islander/Asian-American,To get a date,1,18.0,10.0,18.0,18.0,18.0,18.0,18.0,10.0,,
+7410,509,Female,28.0,English/Creative Writing/ Journalism,Asian/Pacific Islander/Asian-American,To meet new people,6,10.0,20.0,30.0,10.0,10.0,20.0,10.0,30.0,,
+7432,510,Female,26.0,Business/Econ/Finance,Latino/Hispanic American,To meet new people,7,25.0,25.0,25.0,12.0,3.0,10.0,30.0,60.0,40.0,40.0
+7454,511,Female,23.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,4,20.0,10.0,10.0,30.0,15.0,15.0,20.0,30.0,,
+7476,512,Female,,Fine Arts/Arts Administration,European/Caucasian-American,Seemed like a fun night out,1,20.0,20.0,20.0,20.0,5.0,15.0,40.0,40.0,,
+7498,513,Female,23.0,Fine Arts/Arts Administration,European/Caucasian-American,To meet new people,6,20.0,20.0,20.0,20.0,5.0,15.0,,,,
+7520,514,Female,23.0,"Social Science, Psychologist",European/Caucasian-American,To meet new people,0,20.0,20.0,20.0,15.0,5.0,20.0,20.0,50.0,50.0,40.0
+7542,515,Female,23.0,English/Creative Writing/ Journalism,European/Caucasian-American,Seemed like a fun night out,2,20.0,20.0,20.0,15.0,10.0,15.0,25.0,25.0,,
+7564,516,Female,27.0,Biological Sciences/Chemistry/Physics,Asian/Pacific Islander/Asian-American,To meet new people,6,58.0,5.0,8.0,10.0,7.0,12.0,35.0,50.0,,
+7586,517,Female,30.0,Fine Arts/Arts Administration,Latino/Hispanic American,To say I did it,0,15.0,20.0,20.0,20.0,5.0,10.0,20.0,20.0,,
+7608,518,Female,23.0,Fine Arts/Arts Administration,European/Caucasian-American,To say I did it,6,20.0,25.0,25.0,30.0,5.0,5.0,25.0,30.0,,
+7630,519,Female,26.0,"Education, Academia",European/Caucasian-American,To meet new people,0,40.0,5.0,30.0,15.0,5.0,5.0,,,,
+7652,520,Female,28.0,Social Work,Other,Seemed like a fun night out,0,25.0,15.0,25.0,15.0,10.0,10.0,20.0,30.0,25.0,25.0
+7674,521,Female,26.0,Social Work,European/Caucasian-American,Seemed like a fun night out,7,10.0,30.0,20.0,15.0,15.0,10.0,10.0,10.0,15.0,15.0
+7696,522,Female,22.0,Law,European/Caucasian-American,Seemed like a fun night out,5,10.0,20.0,15.0,20.0,15.0,20.0,15.0,20.0,,
+7718,523,Female,27.0,"Education, Academia",Asian/Pacific Islander/Asian-American,To meet new people,2,10.0,25.0,20.0,20.0,5.0,20.0,20.0,20.0,,
+7740,524,Female,25.0,"Medical Science, Pharmaceuticals, and Bio Tech",Asian/Pacific Islander/Asian-American,To meet new people,14,15.0,20.0,25.0,20.0,10.0,10.0,20.0,20.0,15.0,20.0
+7762,525,Female,24.0,Fine Arts/Arts Administration,European/Caucasian-American,To meet new people,0,10.0,15.0,30.0,20.0,15.0,10.0,5.0,10.0,,
+7784,526,Female,26.0,Social Work,Latino/Hispanic American,Seemed like a fun night out,2,10.0,10.0,30.0,20.0,10.0,15.0,30.0,65.0,50.0,70.0
+7806,527,Female,24.0,Social Work,Other,Seemed like a fun night out,0,50.0,20.0,10.0,5.0,10.0,5.0,25.0,40.0,,
+7828,528,Female,29.0,Social Work,Latino/Hispanic American,To meet new people,0,40.0,10.0,30.0,10.0,10.0,,40.0,60.0,30.0,40.0
+7850,529,Female,22.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,2,10.0,25.0,25.0,10.0,10.0,20.0,10.0,10.0,10.0,10.0
+7872,530,Female,22.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,2,20.0,20.0,10.0,15.0,5.0,30.0,10.0,10.0,15.0,15.0
+7894,531,Male,25.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,1,15.0,30.0,20.0,20.0,10.0,5.0,30.0,30.0,,
+7916,532,Male,26.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,25.0,20.0,20.0,20.0,5.0,10.0,,,20.0,20.0
+7938,533,Male,26.0,Engineering,European/Caucasian-American,To meet new people,2,25.0,25.0,25.0,13.0,12.0,0.0,25.0,40.0,,
+7960,534,Male,24.0,Engineering,Other,To get a date,6,30.0,30.0,30.0,5.0,2.0,3.0,40.0,40.0,,
+7982,535,Male,23.0,Biological Sciences/Chemistry/Physics,European/Caucasian-American,Seemed like a fun night out,8,23.0,14.0,19.0,16.0,10.0,18.0,20.0,25.0,,
+8004,536,Male,29.0,Math,European/Caucasian-American,Seemed like a fun night out,3,30.0,20.0,20.0,20.0,10.0,0.0,70.0,60.0,,
+8026,537,Male,22.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,2,20.0,5.0,25.0,25.0,5.0,20.0,25.0,30.0,20.0,20.0
+8048,538,Male,32.0,Engineering,European/Caucasian-American,Seemed like a fun night out,4,50.0,0.0,10.0,30.0,0.0,10.0,70.0,70.0,,
+8070,539,Male,22.0,Law,European/Caucasian-American,Seemed like a fun night out,2,30.0,10.0,20.0,15.0,15.0,10.0,30.0,40.0,,
+8092,540,Male,24.0,Engineering,European/Caucasian-American,Seemed like a fun night out,1,20.0,15.0,20.0,20.0,15.0,10.0,20.0,30.0,20.0,25.0
+8114,541,Male,23.0,Engineering,Asian/Pacific Islander/Asian-American,To get a date,1,40.0,30.0,0.0,20.0,0.0,10.0,50.0,50.0,,
+8136,542,Male,23.0,Engineering,Asian/Pacific Islander/Asian-American,To meet new people,3,25.0,15.0,20.0,20.0,10.0,10.0,30.0,50.0,,
+8158,543,Male,24.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,0,20.0,16.0,16.0,17.0,16.0,15.0,30.0,30.0,,
+8180,544,Male,23.0,Engineering,Asian/Pacific Islander/Asian-American,Seemed like a fun night out,3,15.0,25.0,20.0,10.0,10.0,20.0,10.0,10.0,,
+8202,545,Male,24.0,Engineering,European/Caucasian-American,Seemed like a fun night out,2,20.0,20.0,20.0,20.0,10.0,10.0,20.0,35.0,20.0,20.0
+8224,546,Male,30.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,6,35.0,10.0,20.0,25.0,5.0,5.0,30.0,30.0,40.0,40.0
+8246,547,Male,30.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,3,25.0,20.0,20.0,20.0,0.0,15.0,,,,
+8268,548,Male,30.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,5,40.0,10.0,20.0,10.0,0.0,20.0,40.0,30.0,40.0,40.0
+8290,549,Male,28.0,Business/Econ/Finance,European/Caucasian-American,Seemed like a fun night out,5,20.0,20.0,20.0,20.0,0.0,20.0,20.0,40.0,30.0,40.0
+8312,550,Male,30.0,Business/Econ/Finance,European/Caucasian-American,To meet new people,4,30.0,3.0,30.0,30.0,3.0,4.0,60.0,70.0,,
+8334,551,Male,27.0,Business/Econ/Finance,Black/African American,Seemed like a fun night out,2,40.0,20.0,20.0,20.0,0.0,0.0,75.0,80.0,,
+8356,552,Male,25.0,Other,European/Caucasian-American,Seemed like a fun night out,6,70.0,0.0,15.0,15.0,0.0,0.0,70.0,70.0,70.0,70.0
