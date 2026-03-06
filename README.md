@@ -24,7 +24,7 @@ Speed+Dating+Data.csv: Dataset d'événements de speed dating organisés entre 2
 
 ## Structure du projet
 
-* ```data```: Jeux de données
+* ```data/```: Jeux de données
 * ```images/```: Images utilisées dans les notebooks
 * ```notebook/```: Notebooks Jypiter
 
