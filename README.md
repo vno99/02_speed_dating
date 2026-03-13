@@ -32,3 +32,7 @@ Speed+Dating+Data.csv: Dataset d'événements de speed dating organisés entre 2
 ```
 python -m pip install -r requirements.txt
 ```
+
+## GitHub
+
+https://github.com/vno99/02_speed_dating
